@@ -3,7 +3,7 @@ simple pdf analyzer using node and python(api) with graphs.
 
 
 ### example given below. checkout!
-[![Watch the video](https://github.com/ReverseEngineeringDude/Pdfy/blob/main/assets/video.gif)]
+![Watch the video](https://github.com/ReverseEngineeringDude/Pdfy/blob/main/assets/video.gif)
 
 > [!NOTE]
 > Its only support specific layout pdf's
