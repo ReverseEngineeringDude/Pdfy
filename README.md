@@ -1,4 +1,4 @@
-#       Just simple pdf pdf analyzer
+#       Just simple pdf analyzer
 simple pdf analyzer using node and python(api) with graphs.
 
 
